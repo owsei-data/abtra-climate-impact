@@ -1,4 +1,4 @@
-mes,ano,tipo.documento,total.ctr,entrada.ate.doc.import,doc.import.ate.desembaraco,desembaraco.ate.saida ,entrada.ate.saida,operadorr,transito,recinto,porto
+mes,ano,tipo.documento,total.ctr,entrada.ate.doc.import,doc.import.ate.desembaraco,desembaraco.ate.saida ,entrada.ate.saida,operador,transito,recinto,porto
 1,2019,1,40842,"6,9","0,66","8,34","16,31","0,77","0,03","16,31","17,09"
 2,2019,1,36784,"5,84","0,7","8,59","15,56","0,77","0,03","15,56","16,34"
 3,2019,1,41433,"5,25","0,67","6,61","12,89","0,85","0,03","12,89","13,75"
