@@ -2,7 +2,7 @@
 
 ## 1. Sobre o projeto
 
-Neste projeto, nosso objetivo foi mensurar o impacto real das condições climáticas nas operações portuárias de Santos/Bertioga. Utilizamos a base de dados da **ABTRA** (Associação Brasileira de Terminais e Recintos Alfandegários), disponibilizada pelo professor Luiz Guilherme, para sair da teoria e aplicar Data Science na prática.
+Neste projeto, nosso objetivo foi simular o impacto real das condições climáticas nas operações portuárias de Santos/Bertioga. Utilizamos a base de dados da **ABTRA** (Associação Brasileira de Terminais e Recintos Alfandegários), disponibilizada pelo professor Luiz Guilherme, para sair da teoria e aplicar Data Science na prática.
 
 A ideia central foi responder: **Quanto custa um dia de chuva ou vento forte para a eficiência do porto?** Investigamos desde o impacto no volume de carga movimentada (toneladas) até o tempo que a mercadoria fica parada aguardando liberação (lead time).
 
