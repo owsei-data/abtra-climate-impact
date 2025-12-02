@@ -1,5 +1,9 @@
 # 🚢 Análise de Impacto Climático em Operações Portuárias
 
+## Unificação do projeto
+**[aqui](./abtra-climate-impact.ipynb)**, unificamos o projeto para a entrega da tarefa de aula.
+
+
 ## 1. Sobre o projeto
 
 Neste projeto, nosso objetivo foi simular o impacto real das condições climáticas nas operações portuárias de Santos/Bertioga. Utilizamos a base de dados da **ABTRA** (Associação Brasileira de Terminais e Recintos Alfandegários), disponibilizada pelo professor Luiz Guilherme, para sair da teoria e aplicar Data Science na prática.
